@@ -4,12 +4,12 @@
 
 ### Team 17 · Make the World Better
 
-| 이름 | 역할 | GitHub |
-|---|---|---|
-| 이효준 | 백엔드 · AI 개발 | [@HP657](https://github.com/HP657) |
-| 윤연서 | AI 설계 · 개발 | [@yyeonseoo](https://github.com/yyeonseoo) |
-| 정가연 | 프론트엔드 | [@9bfish8](https://github.com/9bfish8) |
-| 임현수 | 기획 | [@him55710-sudo](https://github.com/him55710-sudo) |
+|  | 이름 | 역할 | GitHub |
+|:--:|---|---|---|
+| <a href="https://github.com/HP657"><img src="https://github.com/HP657.png?size=120" width="64" height="64" alt="이효준" /></a> | **이효준** | 백엔드 · AI 개발 | [@HP657](https://github.com/HP657) |
+| <a href="https://github.com/yyeonseoo"><img src="https://github.com/yyeonseoo.png?size=120" width="64" height="64" alt="윤연서" /></a> | **윤연서** | AI 설계 · 개발 | [@yyeonseoo](https://github.com/yyeonseoo) |
+| <a href="https://github.com/9bfish8"><img src="https://github.com/9bfish8.png?size=120" width="64" height="64" alt="정가연" /></a> | **정가연** | 프론트엔드 | [@9bfish8](https://github.com/9bfish8) |
+| <a href="https://github.com/him55710-sudo"><img src="https://github.com/him55710-sudo.png?size=120" width="64" height="64" alt="임현수" /></a> | **임현수** | 기획 | [@him55710-sudo](https://github.com/him55710-sudo) |
 
 <sub>Lablup &amp; Furiosa AI Track</sub>
 
